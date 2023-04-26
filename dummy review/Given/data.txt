@@ -1,0 +1,99 @@
+1.
+Pending
+Self Review
+Elizabeth Gracie
+UI/UX Designer
+Review date : Unreviewed
+
+2.
+Pending
+Peer to Peer Review
+Greshilda Caroline
+Front End Developer
+Review date : Unreviewed
+
+3.
+Pending
+Peer to Peer Review
+Erfan Pramudayana Febrian
+Senior Back End Developer
+Review date : Unreviewed
+
+4.
+Finished Reviewing
+Subordinate Review
+Albert Setiadi
+Project Manager Development
+Review date : 08 Jul 2022
+
+
+5.
+Finished Reviewing
+Peer to Peer Review
+Muhammad Rifky Andrianto
+UI/UX Designer
+Review date : 08 Jul 2022
+
+6.
+Finished Reviewing
+Peer to Peer Review
+John Doe 
+Bussiness Development
+Review date : 08 Jull 2022
+
+7.
+Finished Reviewing
+Peer to Peer Review
+Christian Baptisuta
+Project Manager Development
+Review date: 08 Jul 2022
+
+8. 
+Expired
+Peer to Peer Review
+Haikal Gutzer Muchtar 
+UI/UX Designer
+Review date : Unreviewed
+
+9.
+Finished Reviewing
+Peer to Peer Review
+Leonardo Desticonfiro
+Bussiness Development
+Review date : 13 Jul 2022
+
+10
+Finished Reviewing
+Peer to Peer Review
+Dimas Prasetyo
+Android Developer
+Review date : 07 Jul 2022
+
+11
+Finished Reviewing
+Peer to Peer Review
+Andi Firmansyah
+UI/UX Developer
+Review date : 07 Jul 2022
+
+12
+Finished Reviewing
+Peer to Peer Review
+Iwan Setiawan
+Senior Bussiness Analyst
+Review date : 07 Jul 2022
+
+13
+Finished Reviewing
+Peer to Peer Review
+Rini Sari
+Fullstack Developer
+Review date : 06 Jul 2022
+
+14
+Finished Reviewing
+Peer to Peer Review
+Siti Aisyah
+Front End Developer
+Review date : 06 Jul 2022
+
